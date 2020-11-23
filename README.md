@@ -24,3 +24,8 @@ JSON is a lightweight data-interchange format. It is easy for humans to read and
 > "whitespace" : "value",
 > "whitespace" : "value"
 > }
+
+# File System (fs)
+The fs module enables interacting with the file system in a way modeled on standard POSIX functions.
+
+>POSIX defines the application programming interface (API), along with command line shells and utility interfaces, for software compatibility with variants of Unix and other operating systems.
